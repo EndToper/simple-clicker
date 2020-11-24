@@ -39,7 +39,6 @@ def up2():
     if int(number) >= cost2:
         point2 = point2 + 5
         number = number - cost2
-        print(round(point2/5))
         for i in range(round(point2/5)):
             cost2 = cost2 + cost3*i
         label_4['text']=f'Цена улучшения: {cost2}'
