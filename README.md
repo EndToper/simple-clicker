@@ -8,18 +8,18 @@
 # Чуток о коде
 number -  
 window -  
-#pointы
+# pointы
  point
  point2
  time
-#costы
+# costы
  cost  
  cost1  
  cost2  
  cost3  
  cost4  
  cost5  
-#lables & buttons
+# lables & buttons
  button -  
  button_lvl
  button_lvl_2
