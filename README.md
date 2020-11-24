@@ -6,12 +6,12 @@
  Так же вы можете покупать и увеличивать множитель афк кликера.  
  По стандарту он "кликает" раз в 2.5, но и это значения можно уменьшить, прокачивая кликер.
 # Чуток о коде
-number -  
-window -  
+number -  переменная, отвечающая за баланс игрока  
+window -  переменная - окно программы  
 # pointы
- point
- point2
- time
+ point - множитель очков при клике  
+ point2 - множитель очков автокликера  
+ time - время, за которое автокликер совершает один клик(секунда / 1000)  
 # costы
  cost  
  cost1  
@@ -21,14 +21,14 @@ window -
  cost5  
 # lables & buttons
  button -  
- button_lvl
- button_lvl_2
- button_lvl_3
- label
- label_2
- label_3
- label_4
- label_5
- label_6
- label_7
- label_count
+ button_lvl  
+ button_lvl_2  
+ button_lvl_3  
+ label  
+ label_2  
+ label_3  
+ label_4  
+ label_5   
+ label_6  
+ label_7  
+ label_count  
