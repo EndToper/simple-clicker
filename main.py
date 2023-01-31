@@ -129,5 +129,5 @@ label_6.place(x = 150, y = 380)
 label_7.place(x = 115, y = 410)
 #основной
 afk_click()
-# коммент
+# коммент 23
 window.mainloop()
